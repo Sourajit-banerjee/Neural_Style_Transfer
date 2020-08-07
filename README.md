@@ -1,4 +1,4 @@
 
-# Neural-Style :city_sunrise: 
+# Neural-Style :
 
 
